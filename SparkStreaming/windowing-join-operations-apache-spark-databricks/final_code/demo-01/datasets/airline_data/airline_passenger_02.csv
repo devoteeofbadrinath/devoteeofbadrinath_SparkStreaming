@@ -1,0 +1,21 @@
+id,Gender,Customer Type,Age,Type of Travel,Class,Flight Distance,Inflight wifi service,Departure/Arrival time convenient,Ease of Online booking,Gate location,Food and drink,Online boarding,Seat comfort,Inflight entertainment,On-board service,Leg room service,Baggage handling,Checkin service,Inflight service,Cleanliness,Departure Delay in Minutes,Arrival Delay in Minutes,satisfaction
+64287,Female,Loyal Customer,50,Business travel,Business,3799,5,5,5,5,4,5,4,4,4,5,4,5,4,5,8,0,satisfied
+63995,Male,Loyal Customer,60,Business travel,Business,612,4,4,4,4,2,4,5,5,5,5,5,5,5,5,21,49,satisfied
+75855,Male,Loyal Customer,43,Personal Travel,Eco,1437,3,4,3,4,2,3,2,2,4,2,4,4,5,2,0,0,neutral or dissatisfied
+106181,Male,Loyal Customer,55,Personal Travel,Eco,302,1,2,4,3,4,4,4,4,1,3,2,4,3,4,0,0,neutral or dissatisfied
+44304,Male,Loyal Customer,25,Business travel,Business,1428,4,4,4,4,4,4,4,4,1,5,3,1,5,4,0,0,satisfied
+82602,Female,disloyal Customer,30,Business travel,Eco,528,4,3,5,3,2,5,2,2,3,2,3,4,4,2,0,0,neutral or dissatisfied
+7823,Male,Loyal Customer,62,Personal Travel,Eco,710,3,5,3,4,2,3,2,2,3,5,5,4,4,2,0,0,neutral or dissatisfied
+127781,Male,Loyal Customer,24,Business travel,Business,3680,4,1,4,4,2,2,2,2,5,5,5,5,4,2,0,0,satisfied
+34501,Female,Loyal Customer,22,Business travel,Eco,1521,4,1,1,1,4,4,4,4,1,4,1,1,5,4,3,13,satisfied
+121658,Male,Loyal Customer,44,Business travel,Business,1543,3,5,3,3,5,4,5,5,5,5,5,5,5,5,0,0,satisfied
+20219,Male,Loyal Customer,51,Business travel,Eco,235,4,3,3,3,4,4,4,4,3,2,3,3,4,4,0,0,neutral or dissatisfied
+67551,Male,Loyal Customer,43,Personal Travel,Business,1235,1,5,1,1,1,1,4,3,3,1,5,4,3,5,0,0,neutral or dissatisfied
+48994,Female,Loyal Customer,56,Business travel,Eco,308,2,3,3,3,5,2,5,2,2,2,2,2,2,2,0,0,satisfied
+70811,Male,disloyal Customer,41,Business travel,Eco,624,2,3,2,4,5,2,5,5,4,3,3,1,4,5,0,0,neutral or dissatisfied
+75241,Male,Loyal Customer,22,Personal Travel,Eco,1846,4,5,4,4,5,4,5,5,5,4,4,4,4,5,40,68,neutral or dissatisfied
+12312,Female,Loyal Customer,53,Business travel,Eco,192,5,2,2,2,3,4,2,5,5,5,5,2,5,4,0,1,satisfied
+48372,Male,Loyal Customer,12,Personal Travel,Eco,674,3,4,3,1,1,3,1,1,3,3,5,4,4,1,80,70,neutral or dissatisfied
+51477,Female,Loyal Customer,39,Business travel,Business,370,3,3,3,3,2,4,5,4,4,4,4,4,4,5,10,12,satisfied
+84204,Female,Loyal Customer,55,Business travel,Business,3169,1,1,1,1,3,5,4,5,5,5,5,3,5,5,73,68,satisfied
+70990,Female,disloyal Customer,32,Business travel,Business,802,4,4,4,2,2,4,4,2,4,2,4,3,5,2,0,10,neutral or dissatisfied

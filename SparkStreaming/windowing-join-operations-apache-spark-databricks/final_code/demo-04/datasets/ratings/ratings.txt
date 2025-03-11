@@ -1,0 +1,36 @@
+{ "name": "The Shining1", "rating": "R", "score": 8.4 },
+{ "name": "The Blue Lagoon", "rating": "R", "score": 5.8},
+{ "name": "Star Wars: Episode V - The Empire Strikes Back", "rating": "PG", "score": 8.7},
+
+{ "name": "Lagaan", "rating": "PG", "score": 9.2 },
+{ "name": "Andhadhun", "rating": "PG", "score": 8.4 },
+{ "name": "Airplane!","rating": "PG", "score": 7.7 },
+{ "name": "Caddyshack", "rating": "R", "score": 7.3 },
+{ "name": "Friday the 13th", "rating": "R", "score": 6.4},
+{ "name": "The Blues Brothers", "rating": "R", "score": 7.9},
+{ "name": "Raging Bull", "rating": "R", "score": 8.2 },
+
+{ "name": "Star Wars: Episode V - The Empire Strikes Back", "rating": "PG", "score": 8.2},
+{ "name": "Fame", "rating": "R", "score": 6.6},
+{ "name": "Friday the 13th", "rating": "R", "score": 6.1}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

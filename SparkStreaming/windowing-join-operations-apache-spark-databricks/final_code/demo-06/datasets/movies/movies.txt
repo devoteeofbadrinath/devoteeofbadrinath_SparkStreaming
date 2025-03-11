@@ -1,0 +1,18 @@
+movies-data-stream
+
+{"name":"Friday the 13th","year":1980,"director":"Sean S. Cunningham","writer":"Victor Miller","star":"Betsy Palmer"},
+{"name":"The Blues Brothers","year":1980,"director":"John Landis","writer":"Dan Aykroyd","star":"John Belushi"},
+{"name":"Raging Bull","year":1980,"director":"Martin Scorsese","writer":"Jake LaMotta","star":"Robert De Niro"},
+{"name":"Superman II","year":1980,"director":"Richard Lester","writer":"Jerry Siegel","star":"Gene Hackman"}
+
+
+{"name":"Dressed to Kill","year":1980,"director":"Brian De Palma","writer":"Brian De Palma","star":"Michael Caine"}
+{"name":"Somewhere in Time","year":1980,"director":"Jeannot Szwarc","writer":"Richard Matheson","star":"Christopher Reeve"}
+{"name":"Fame","year":1980,"director":"Alan Parker","writer":"Christopher Gore","star":"Eddie Barth"}
+{"name":"The Fog","year":1980,"director":"John Carpenter","writer":"John Carpenter","star":"Adrienne Barbeau"}
+
+
+
+
+
+

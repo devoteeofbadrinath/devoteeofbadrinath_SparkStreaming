@@ -1,0 +1,11 @@
+
+ratings-data-stream
+
+{ "name": "Fame", "rating": "R", "score": 6.3}
+{ "name": "The Fog","rating": "R", "score": 7.1 }
+
+
+
+
+
+

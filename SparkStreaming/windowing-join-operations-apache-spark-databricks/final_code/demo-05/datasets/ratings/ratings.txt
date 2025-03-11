@@ -1,0 +1,13 @@
+
+ratings-data-stream
+
+{ "name": "Amar Akbar Anthony", "rating": "PG", "score": 9.3}
+{ "name": "The Long Riders","rating": "PG", "score": 7.1 },
+{ "name": "The Gods Must Be Crazy", "rating": "PG", "score": 8.6},
+{ "name": "Ordinary People", "rating": "PG", "score": 8.1},
+
+
+
+
+
+

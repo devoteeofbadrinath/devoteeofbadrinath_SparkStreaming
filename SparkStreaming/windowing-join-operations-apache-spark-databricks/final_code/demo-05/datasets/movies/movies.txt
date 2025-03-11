@@ -1,0 +1,20 @@
+movies-data-stream
+
+{"name":"The Shining","year":1980,"director":"Stanley Kubrick","writer":"Stephen King","star":"Jack Nicholson"},
+{"name":"The Blue Lagoon","year":1980,"director":"Randal Kleiser","writer":"Henry De Vere Stacpoole","star":"Brooke Shields"},
+{"name":"Star Wars: Episode V - The Empire Strikes Back","year":1980,"director":"Irvin Kershner","writer":"Leigh Brackett","star":"Mark Hamill"},
+{"name":"Airplane!","year":1980,"director":"Jim Abrahams","writer":"Jim Abrahams","star":"Robert Hays"},
+{"name":"Caddyshack","year":1980,"director":"Harold Ramis","writer":"Brian Doyle-Murray","star":"Chevy Chase"}
+
+
+{"name":"The Long Riders","year":1980,"director":"Walter Hill","writer":"Bill Bryden","star":"David Carradine"},
+{"name":"Any Which Way You Can","year":1980,"director":"Buddy Van Horn","writer":"Stanford Sherman","star":"Clint Eastwood"},
+{"name":"The Gods Must Be Crazy","year":1980,"director":"Jamie Uys","writer":"Jamie Uys","star":"N!xau"},
+{"name":"Popeye","year":1980,"director":"Robert Altman","writer":"Jules Feiffer","star":"Robin Williams"},
+{"name":"Ordinary People","year":1980,"director":"Robert Redford","writer":"Judith Guest","star":"Donald Sutherland"}
+
+
+
+
+
+

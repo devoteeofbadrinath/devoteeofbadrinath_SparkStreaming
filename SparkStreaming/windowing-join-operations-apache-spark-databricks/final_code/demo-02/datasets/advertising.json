@@ -1,0 +1,56 @@
+# Batch 1
+
+{ "Daily Time Spent on Site": 80.67, "Age": 34, "Area Income": 58909.36, "Daily Internet Usage": 239.76, "Male": 0, "Timestamp": "2016-01-01 2:52:10", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 68.01, "Age": 25, "Area Income": 68357.96, "Daily Internet Usage": 188.32, "Male": 1, "Timestamp": "2016-01-01 3:35:35", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 80.94, "Age": 36, "Area Income": 60803, "Daily Internet Usage": 239.94, "Male": 0, "Timestamp": "2016-01-01 5:31:22", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 78.77, "Age": 28, "Area Income": 63497.62, "Daily Internet Usage": 211.83, "Male": 0, "Timestamp": "2016-01-01 8:27:06", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 36.56, "Age": 29, "Area Income": 42838.29, "Daily Internet Usage": 195.89, "Male": 0, "Timestamp": "2016-01-01 15:14:24", "Clicked on Ad": 1}
+
+# Batch 2
+
+
+{ "Daily Time Spent on Site": 46.61, "Age": 42, "Area Income": 65856.74, "Daily Internet Usage": 136.18, "Male": 0, "Timestamp": "2016-01-01 20:17:49", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 75.32, "Age": 28, "Area Income": 59998.5, "Daily Internet Usage": 233.6, "Male": 1, "Timestamp": "2016-01-01 21:58:55", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 79.36, "Age": 33, "Area Income": 62330.75, "Daily Internet Usage": 234.72, "Male": 1, "Timestamp": "2016-01-02 4:50:44", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 81.21, "Age": 36, "Area Income": 63394.41, "Daily Internet Usage": 233.04, "Male": 0, "Timestamp": "2016-01-02 9:30:11", "Clicked on Ad": 0},
+
+# Batch 3
+
+
+{ "Daily Time Spent on Site": 44.96, "Age": 50, "Area Income": 52802, "Daily Internet Usage": 132.71, "Male": 1, "Timestamp": "2016-01-02 12:25:36", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 83.26, "Age": 40, "Area Income": 70225.6, "Daily Internet Usage": 187.76, "Male": 1, "Timestamp": "2016-01-02 14:36:03", "Clicked on Ad": 0}
+{ "Daily Time Spent on Site": 35.25, "Age": 50, "Area Income": 47051.02, "Daily Internet Usage": 194.44, "Male": 0, "Timestamp": "2016-01-03 4:39:47", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 65.07, "Age": 24, "Area Income": 57545.56, "Daily Internet Usage": 233.85, "Male": 0, "Timestamp": "2016-01-03 7:13:53", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 76.58, "Age": 46, "Area Income": 41884.64, "Daily Internet Usage": 258.26, "Male": 0, "Timestamp": "2016-01-03 16:30:51", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 88.72, "Age": 32, "Area Income": 43870.51, "Daily Internet Usage": 211.87, "Male": 1, "Timestamp": "2016-01-03 17:10:05", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 72.8, "Age": 35, "Area Income": 63551.67, "Daily Internet Usage": 249.54, "Male": 0, "Timestamp": "2016-01-03 23:21:26", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 48.86, "Age": 35, "Area Income": 62463.7, "Daily Internet Usage": 128.37, "Male": 1, "Timestamp": "2016-01-04 0:44:57", "Clicked on Ad": 1}
+
+# Batch 4
+
+{ "Daily Time Spent on Site": 83.16, "Age": 41, "Area Income": 70185.06, "Daily Internet Usage": 194.95, "Male": 0, "Timestamp": "2016-01-04 4:00:35", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 73.88, "Age": 29, "Area Income": 63109.74, "Daily Internet Usage": 233.61, "Male": 0, "Timestamp": "2016-01-04 6:37:15","Clicked on Ad": 0}
+{ "Daily Time Spent on Site": 66.89, "Age": 23, "Area Income": 64433.99, "Daily Internet Usage": 208.24, "Male": 1, "Timestamp": "2016-01-04 7:28:43", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 83.91,"Age": 29, "Area Income": 53223.58, "Daily Internet Usage": 222.87, "Male": 0, "Timestamp": "2016-01-04 22:27:25", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 46.37, "Age": 52, "Area Income": 32847.53, "Daily Internet Usage": 144.27, "Male": 0, "Timestamp": "2016-01-05 0:02:53", "Clicked on Ad": 1}
+{ "Daily Time Spent on Site": 76.44, "Age": 26, "Area Income": 58820.16, "Daily Internet Usage": 224.2, "Male": 1, "Timestamp": "2016-01-05 6:34:20", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 61.22, "Age": 45, "Area Income": 63883.81, "Daily Internet Usage": 119.03, "Male": 1, "Timestamp": "2016-01-05 9:42:22", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 71.23, "Age": 52, "Area Income": 41521.28, "Daily Internet Usage": 122.59, "Male": 0, "Timestamp": "2016-01-05 11:53:17", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 65.56, "Age": 25, "Area Income": 69646.35, "Daily Internet Usage": 181.25, "Male": 1, "Timestamp": "2016-01-05 12:59:07", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 45.11, "Age": 58, "Area Income": 39799.73, "Daily Internet Usage": 195.69, "Male": 0, "Timestamp": "2016-01-10 16:26:44", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 79.54, "Age": 44, "Area Income": 70492.6, "Daily Internet Usage": 217.68, "Male": 1, "Timestamp": "2016-01-10 16:34:31", "Clicked on Ad": 0}
+
+# Batch 5
+
+
+{ "Daily Time Spent on Site": 78.29, "Age": 38, "Area Income": 57844.96, "Daily Internet Usage": 252.07, "Male": 0, "Timestamp": "2016-01-05 20:58:42", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 81.03, "Age": 28, "Area Income": 63727.5, "Daily Internet Usage": 201.15, "Male": 0, "Timestamp": "2016-01-06 13:20:01", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 84.31, "Age": 29, "Area Income": 47139.21, "Daily Internet Usage": 225.87, "Male": 0, "Timestamp": "2016-01-06 21:43:22", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 81.22, "Age": 53, "Area Income": 34309.24, "Daily Internet Usage": 223.09, "Male": 1, "Timestamp": "2016-01-07 13:25:21", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 51.56, "Age": 46, "Area Income": 63102.19, "Daily Internet Usage": 124.85, "Male": 0, "Timestamp": "2016-01-07 13:58:51", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 68.11, "Age": 38, "Area Income": 73884.48, "Daily Internet Usage": 231.21, "Male": 0, "Timestamp": "2016-01-07 21:21:50", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 66.08, "Age": 61, "Area Income": 58966.22, "Daily Internet Usage": 184.23, "Male": 1, "Timestamp": "2016-01-07 23:02:43", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 80.51, "Age": 28, "Area Income": 64008.55, "Daily Internet Usage": 200.28, "Male": 1, "Timestamp": "2016-01-08 2:34:06", "Clicked on Ad": 0},
+{ "Daily Time Spent on Site": 78.76, "Age": 24, "Area Income": 46422.76, "Daily Internet Usage": 219.98, "Male": 1, "Timestamp": "2016-01-08 8:08:47", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 53.63, "Age": 54, "Area Income": 50333.72, "Daily Internet Usage": 126.29, "Male": 1, "Timestamp": "2016-01-08 18:13:43", "Clicked on Ad": 1},
+{ "Daily Time Spent on Site": 79.97, "Age": 26, "Area Income": 61747.98, "Daily Internet Usage": 185.45, "Male": 1, "Timestamp": "2016-01-08 19:38:45", "Clicked on Ad": 0}

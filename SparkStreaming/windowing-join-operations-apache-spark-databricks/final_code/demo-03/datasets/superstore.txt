@@ -1,0 +1,40 @@
+
+Batch #1
+
+        event_data_batch.add(EventData(
+            '{"State":"Kentucky","Category":"Furniture","Sub-Category":"Bookcases","Sales":261.96,"Quantity":2,"Profit":41.9136, "Timestamp": "2021-10-09 07:22:13"}'))      
+        event_data_batch.add(EventData(
+            '{"State":"Kentucky","Category":"Furniture","Sub-Category":"Chairs","Sales":731.94,"Quantity":3,"Profit":219.582, "Timestamp": "2021-10-09 07:23:34"}'))
+        event_data_batch.add(EventData(
+            '{"State":"California","Category":"Office Supplies","Sub-Category":"Labels","Sales":14.62,"Quantity":2,"Profit":6.8714, "Timestamp": "2021-10-09 07:22:45"}'))
+        event_data_batch.add(EventData(
+            '{"State":"Florida","Category":"Furniture","Sub-Category":"Tables","Sales":957.5775,"Quantity":5,"Profit":-383.031, "Timestamp": "2021-10-09 07:23:03"}'))
+        event_data_batch.add(EventData(
+            '{"State":"Florida","Category":"Office Supplies","Sub-Category":"Storage","Sales":22.368,"Quantity":2,"Profit":2.5164, "Timestamp": "2021-10-09 07:25:55"}'))
+        event_data_batch.add(EventData(
+            '{"State":"California","Category":"Furniture","Sub-Category":"Furnishings","Sales":48.86,"Quantity":7,"Profit":14.1694}, "Timestamp": "2021-10-09 07:24:37"'))
+
+{"State":"Kentucky","Category":"Furniture","Sub-Category":"Bookcases","Sales":261.96,"Quantity":2,"Profit":41.9136, "Timestamp": "2021-10-09 07:22:13"}      
+{"State":"Kentucky","Category":"Furniture","Sub-Category":"Chairs","Sales":731.94,"Quantity":3,"Profit":219.582, "Timestamp": "2021-10-09 07:23:34"}
+{"State":"California","Category":"Office Supplies","Sub-Category":"Labels","Sales":14.62,"Quantity":2,"Profit":6.8714, "Timestamp": "2021-10-09 07:22:45"}
+{"State":"Florida","Category":"Furniture","Sub-Category":"Tables","Sales":957.5775,"Quantity":5,"Profit":-383.031, "Timestamp": "2021-10-09 07:23:03"}
+{"State":"Florida","Category":"Office Supplies","Sub-Category":"Storage","Sales":22.368,"Quantity":2,"Profit":2.5164, "Timestamp": "2021-10-09 07:25:55"}
+{"State":"California","Category":"Furniture","Sub-Category":"Furnishings","Sales":48.86,"Quantity":7,"Profit":14.1694, "Timestamp": "2021-10-09 07:24:37"}
+
+
+Batch #2
+        
+        event_data_batch.add(EventData(
+            '{"State":"California","Category":"Office Supplies","Sub-Category":"Art","Sales":7.28,"Quantity":4,"Profit":1.9656,"Timestamp": "2021-10-09 07:30:09"}'))
+        event_data_batch.add(EventData(
+            '{"State":"California","Category":"Technology","Sub-Category":"Phones","Sales":907.152,"Quantity":6,"Profit":90.7152,"Timestamp": "2021-10-09 07:24:49"}'))
+
+{"State":"California","Category":"Office Supplies","Sub-Category":"Art","Sales":7.28,"Quantity":4,"Profit":1.9656,"Timestamp": "2021-10-09 07:30:09"}
+{"State":"California","Category":"Technology","Sub-Category":"Phones","Sales":907.152,"Quantity":6,"Profit":90.7152,"Timestamp": "2021-10-09 07:24:49"}
+
+Batch #3
+
+        event_data_batch.add(EventData(
+            '{"State":"California","Category":"Office Supplies","Sub-Category":"Binders","Sales":18.504,"Quantity":3,"Profit":5.7825,"Timestamp": "2021-10-09 07:38:26"}'))
+        event_data_batch.add(EventData(
+            '{"State":"Kentucky","Category":"Office Supplies","Sub-Category":"Appliances","Sales":114.9,"Quantity":5,"Profit":34.47,"Timestamp": "2021-10-09 07:39:01"}'))

@@ -1,0 +1,6 @@
+v1
+{"path":"file:///Users/shivammittal/Desktop/Deloitte/conceptualizing-processing-model-apache-spark-structured-streaming/datasets/stock_data/MSFT_2017.csv","timestamp":1596527566000,"batchId":0}
+{"path":"file:///Users/shivammittal/Desktop/Deloitte/conceptualizing-processing-model-apache-spark-structured-streaming/datasets/stock_data/GOOGL_2018.csv","timestamp":1596527738000,"batchId":0}
+{"path":"file:///Users/shivammittal/Desktop/Deloitte/conceptualizing-processing-model-apache-spark-structured-streaming/datasets/stock_data/FB_2017.csv","timestamp":1596527916000,"batchId":0}
+{"path":"file:///Users/shivammittal/Desktop/Deloitte/conceptualizing-processing-model-apache-spark-structured-streaming/datasets/stock_data/AMZN_2017.csv","timestamp":1596528048000,"batchId":0}
+{"path":"file:///Users/shivammittal/Desktop/Deloitte/conceptualizing-processing-model-apache-spark-structured-streaming/datasets/stock_data/AAPL_2017.csv","timestamp":1596528176000,"batchId":0}
