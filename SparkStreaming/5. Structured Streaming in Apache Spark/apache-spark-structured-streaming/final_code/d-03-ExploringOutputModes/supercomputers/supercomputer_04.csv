@@ -1,0 +1,36 @@
+Rank,Name,Manufacturer,Country,Year,Segment,Total_Cores,Processor_Speed,CoProcessor_Cores,Rmax,Rpeak,Power,Power_Efficiency,Architecture,Processor_Technology,Operating_System,OS_Family
+126,Joule 2.0,HPE,United States,2018,Research,86400,2400,11200,3608.62,5750.784,,,Cluster,Intel Skylake,Linux,Linux
+127,Niagara,Lenovo,Canada,2017,Research,80640,2400,,3599.65999,6253.056,919.42,3.915142144,Cluster,Intel Skylake,CentOS,Linux
+128,,HPE,United States,2014,Government,72800,2200,62400,3577,6131.84,1498.9,2.386416706,Cluster,Intel IvyBridge,Linux,Linux
+129,,HPE,United States,2015,Government,72800,2200,62400,3577,6131.84,1498.9,2.386416706,Cluster,Intel IvyBridge,Linux,Linux
+130,B1A,Lenovo,United States,2021,Industry,80640,2700,,3545.65,6967.3,,,Cluster,Intel Cascade lake,Linux,Linux
+131,Altair,Huawei,Poland,2020,Academic,63360,2900,,3533.61,5879.81,829,4.262496984,Cluster,Intel Cascade lake,CentOS,Linux
+132,,Lenovo,China,2021,Academic,59392,2600,,3488.84,4941.41,,,Cluster,Intel Ice Lake,Linux,Linux
+133,Unizah-II,HPE,Saudi Arabia,2020,Industry,85560,2500,,3487.91,6844.8,,,Cluster,Intel Cascade lake,RHEL 7.7,Linux
+134,Ohtaka,DELL EMC,Japan,2020,Research,215040,2000,,3486.1,6881.28,,,Cluster,AMD Zen-2 (Rome),Red Hat Enterprise Linux,Linux
+135,CARO,NEC,Germany,2021,Research,174592,2000,,3458.3,5586.94,,,Cluster,AMD Zen-2 (Rome),Rocky Linux 8.4,Linux
+136,davinci-1,Atos,Italy,2020,Others,38400,2800,34560,3449,6412.03,,,Cluster,AMD Zen-2 (Rome),Linux,Linux
+137,Cedar (GPU),ACTION,Canada,2020,Academic,67584,2100,61440,3371,5834.4,310,10.87419355,Cluster,Intel Skylake,CentOS,Linux
+138,Topaz,HPE,United States,2015,Research,124200,2300,,3318.95,4570.56,5175,0.641342995,Cluster,Intel Haswell,SUSE Linux Enterprise Server 11,Linux
+139,,Self-made,United States,2017,Industry,60512,2200,55552,3307,4896.512,349.5,9.462088698,Cluster,Intel Broadwell,Ubuntu,Linux
+140,Topaze-cpu,Atos,France,2021,Research,110592,2450,,3261.02,4335.21,,,Cluster,AMD Zen-3 (Milan),Linux,Linux
+141,,NEC,Germany,2020,Research,14336,1584,,3250.4,4282.08,565.08,5.752105897,Cluster,NEC Vector Engine,VEOS,Linux
+142,Damson,Atos,United Kingdom,2017,Research,113832,2300,,3243.41,3791.5776,1134,2.860149912,Cluster,Intel Broadwell,bullx SCS,Linux
+143,LLNL/NNSA CTS-1 MAGMA,Penguin Computing,United States,2019,Research,62400,2300,,3241.24,4592.64,887,3.65416009,Cluster,Intel Cascade lake,Linux/TOSS,Linux
+144,Mustang,HPE,United States,2018,Government,55296,2700,,3221.4,4777.574,,,Cluster,Intel Skylake,Red Hat Enterprise Linux,Linux
+145,HPC2,IBM,Italy,2014,Industry,72000,2800,42000,3188,4605,1227,2.598207009,Cluster,Intel IvyBridge,Linux,Linux
+146,Fênix,Atos,Brazil,2019,Industry,60480,3600,57600,3161,5371.776,389.76,8.110119048,Cluster,Intel Skylake,CentOS,Linux
+147,Toubkal,DELL EMC,Morocco,2020,Academic,71232,2200,,3158.11,5014.73,,,Cluster,Intel Cascade lake,CentOS Scientific-OpenStack,Linux
+148,,Lenovo,United States,2021,Industry,71680,2700,,3151.69,6193.15,,,Cluster,Intel Cascade lake,Linux,Linux
+149,B5A,Lenovo,United States,2021,Industry,71680,2700,,3151.69,6193.15,,,Cluster,Intel Cascade lake,Linux,Linux
+150,Lichtenberg II (Phase 1),MEGWARE,Germany,2020,Academic,59136,2300,,3148.38,4352.41,690,4.562869565,Cluster,Intel Cascade lake,CentOS,Linux
+151,,HPE,United States,2014,Government,225984,2700,,3143.52,4881.2544,6327.55,0.496798919,MPP,Intel IvyBridge,Cray Linux Environment,Linux
+152,A1C,Lenovo,Singapore,2021,Industry,92160,2100,,3131.25,6193.15,,,Cluster,Intel Cascade lake,Linux,Linux
+153,A5A,Lenovo,United States,2021,Industry,92160,2100,,3131.25,6193.15,,,Cluster,Intel Cascade lake,Linux,Linux
+154,A1A,Lenovo,United States,2021,Industry,92160,2100,,3131.25,6193.15,,,Cluster,Intel Cascade lake,Linux,Linux
+155,A1A,Lenovo,United States,2021,Industry,92160,2100,,3131.25,6193.15,,,Cluster,Intel Cascade lake,Linux,Linux
+156,Thunder,HPE,United States,2015,Government,152692,2300,27056,3126.24,5610.481,4819.5,0.648664799,Cluster,Intel Haswell,SUSE Linux Enterprise Server 11,Linux
+157,VEGA HPC GPU,Atos,Slovenia,2021,Research,33600,2600,25920,3096,4680,,,Cluster,AMD Zen-2 (Rome),Linux,Linux
+158,,Lenovo,China,2019,Industry,76000,2500,,3088.64,6080,,,Cluster,Intel Skylake,Linux,Linux
+159,Alps,HPE,Switzerland,2020,Research,128000,2250,,3088.6,4608,637.95,4.841445254,MPP,AMD Zen-2 (Rome),HPE Cray OS,Linux
+160,Numerical Materials Simulator,HPE,Japan,2020,Research,53568,2900,,3082.12,4971.1104,691.2,4.459085648,Cluster,Intel Cascade lake,CentOS,Linux

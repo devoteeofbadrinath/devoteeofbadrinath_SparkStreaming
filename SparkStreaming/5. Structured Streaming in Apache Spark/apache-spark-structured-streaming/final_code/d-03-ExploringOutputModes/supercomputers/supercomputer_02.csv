@@ -1,0 +1,41 @@
+Rank,Name,Manufacturer,Country,Year,Segment,Total_Cores,Processor_Speed,CoProcessor_Cores,Rmax,Rpeak,Power,Power_Efficiency,Architecture,Processor_Technology,Operating_System,OS_Family
+51,DGX SuperPOD,Nvidia,United States,2020,Vendor,127488,3100,122880,9444,11209.114,,,Cluster,Intel Skylake,Ubuntu 18.04.01,Linux
+52,JURECA Data Centric Module,Atos,Germany,2021,Research,105840,2250,81648,9330,14508,384.1,24.29054934,Cluster,AMD Zen-2 (Rome),CentOS,Linux
+53,Gadi,Fujitsu / Lenovo,Australia,2020,Academic,204032,3200,51200,9264.31,15142.1952,,,Cluster,Intel Cascade lake,CentOS,Linux
+54,Taiwania 2,Quanta Computer / Taiwan Fixed Network / ASUS Cloud,Taiwan,2018,Research,170352,3000,161280,9000,15208.23,797.54,11.28470045,Cluster,Intel Skylake,CentOS,Linux
+55,Dragão,Atos,Brazil,2021,Industry,188224,2100,174080,8983,14006.48,943.12,9.524768852,Cluster,Intel Cascade lake,CentOS Linux 7,Linux
+56,Raven-GPU,Lenovo,Germany,2021,Research,96768,2400,82944,8620,16031.54,377,22.86472149,Cluster,Intel Ice Lake,SUSE Linux Enterprise Server 15 SP2,Linux
+57,AiMOS,IBM,United States,2019,Academic,130000,3450,120000,8339,11032.032,512.08,16.28456491,Cluster,Power,RHEL 7.6,Linux
+58,Taranis,Atos,France,2020,Research,294912,2250,,8191.03,10321.92,1672,4.898941388,Cluster,AMD Zen-2 (Rome),bullx SCS,Linux
+59,TSUBAME3.0,HPE,Japan,2017,Academic,135828,2400,120736,8125,12127.069,792.08,10.25780224,Cluster,Intel Broadwell,SUSE Linux Enterprise Server 12 SP1,Linux
+60,Roxy,HPE,United States,2020,Government,174720,2500,,8124.48,13977.6,,,Cluster,Intel Cascade lake,CentOS Linux 7,Linux
+61,HoreKa-Green,Lenovo,Germany,2021,Academic,90932,2400,77328,8025.6,15006.79,358.79,22.3685164,Cluster,Intel Ice Lake,Linux,Linux
+62,Narwhal,HPE,United States,2020,Government,276480,2600,,8023.6,11501.57,,,MPP,AMD Zen-2 (Rome),SLES15 SP2,Linux
+63,Plasma Simulator,NEC,Japan,2020,Research,34560,1584,,7892.7,10510.66,1550.1,5.091736017,Cluster,NEC Vector Engine,VEOS,Linux
+64,Belenos,Atos,France,2020,Research,294912,2250,,7683.36,10469.376,1655,4.642513595,Cluster,AMD Zen-2 (Rome),bullx SCS,Linux
+65,PupMaya,HPE,United States,2019,Government,169920,2400,,7483.73,12902.4,,,Cluster,Intel Skylake,CentOS Linux 7,Linux
+66,Artemis,Nvidia,United Arab Emirates,2019,Industry,107568,2700,103680,7257,9492.163,673,10.78306092,Cluster,Intel Skylake,Ubuntu,Linux
+67,,HPE,United Kingdom,2016,Research,241920,2100,,7038.93,8128.512,,,MPP,Intel Broadwell,Cray Linux Environment,Linux
+68,Levante,Atos,Germany,2021,Research,308096,2450,,6998.79,10276,,,Cluster,AMD Zen-3 (Milan),Linux,Linux
+69,JOLIOT-CURIE ROME,Atos,France,2019,Research,197120,2600,,6988.04,12039.3728,1436,4.86632312,Cluster,AMD Zen-2 (Rome),bullx SCS,Linux
+70,Theta,HPE,United States,2017,Research,280320,1300,,6920.9,11661.312,,,MPP,Intel Xeon Phi,Cray Linux Environment,Linux
+71,"Karolina, GPU partition",HPE,Czechia,2021,Academic,71424,2450,62208,6752,9080.18,310.99,21.71130905,Cluster,AMD Zen-3 (Milan),CentOS,Linux
+72,Christofari,Nvidia,Russia,2019,Industry,99600,2700,96000,6669,8789.76,,,Cluster,Intel Skylake,Ubuntu 18.04.01,Linux
+73,Flow,Fujitsu,Japan,2020,Academic,110592,2200,,6617.8,7785.6768,,,Cluster,Fujitsu ARM,Red Hat Enterprise Linux,Linux
+74,MareNostrum,Lenovo,Spain,2017,Academic,153216,2100,,6470.8,10296.115,1632,3.96495098,Cluster,Intel Skylake,SUSE Linux,Linux
+75,ONYX,HPE,United States,2017,Research,211816,2200,,6316.03,7455.92,,,MPP,Intel Broadwell,Cray Linux Environment,Linux
+76,LUMI-C,HPE,Finland,2021,Research,194560,2450,,6299.79,7626.75,1215.53,5.182751557,MPP,AMD Zen-3 (Milan),HPE Cray OS,Linux
+77,JUWELS Module 1,Atos,Germany,2018,Research,114480,2700,,6177.73,9891.072,1361,4.539110948,Cluster,Intel Skylake,CentOS,Linux
+78,,HPE,Japan,2020,Research,100096,3000,87040,6162,8439.62,,,Cluster,Intel Cascade lake,RHEL 7.7,Linux
+79,SQUID - CPU Nodes,NEC,Japan,2021,Academic,115520,2400,,6105.1,8871.94,1222.2,4.99517264,Cluster,Intel Ice Lake,CentOS,Linux
+80,Lise,Atos,Germany,2019,Academic,121920,2300,,6048.26,8930.92,,,Cluster,Intel Cascade lake,CentOS,Linux
+81,Pleiades,HPE,United States,2016,Research,241108,2800,,5951.55,7107.1488,4407,1.350476515,Cluster,Intel IvyBridge,SUSE Linux Enterprise Server 11,Linux
+82,Emmy+,Atos,Germany,2020,Academic,120296,2300,,5948.8,8911.2576,,,Cluster,Intel Cascade lake,Linux,Linux
+83,Narval (GPU),DELL EMC,Canada,2021,Academic,76320,2650,68688,5886,12165.35,311.14,18.91752909,Cluster,AMD Zen-3 (Milan),Rocky Linux 8.4,Linux
+84,Aitken,HPE,United States,2020,Research,175648,2500,,5795.3,8329.73,1401,4.136545325,Cluster,Intel Cascade lake,SLES12,Linux
+85,Sawtooth,HPE,United States,2019,Research,99792,2900,,5780.62,9220.608,1432,4.03674581,Cluster,Intel Cascade lake,RHEL 7.6,Linux
+86,,Cray Inc./Hitachi,Japan,2018,Research,135792,2100,,5730.5,9125.222,1353.95,4.232431035,MPP,Intel Skylake,Cray Linux Environment,Linux
+87,,Cray Inc./Hitachi,Japan,2018,Research,135792,2100,,5730.5,9125.222,1353.95,4.232431035,MPP,Intel Skylake,Cray Linux Environment,Linux
+88,COBRA,Intel,Germany,2018,Research,127520,2400,,5612.83,9793.536,1635,3.432923547,Cluster,Intel Skylake,SUSE Linux Enterprise Server 12 SP1,Linux
+89,Shaheen II,HPE,Saudi Arabia,2015,Academic,196608,2300,,5536.99,7235.174,2834,1.953772054,MPP,Intel Haswell,Cray Linux Environment,Linux
+90,Electra,HPE,United States,2018,Research,124416,2400,,5444.64,8316.518,1685.73,3.229841078,Cluster,Intel Skylake,SLES12 SP2,Linux
